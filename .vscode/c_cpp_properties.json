@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/route-planning/thirdparty/pugixml/src",
+                "/home/sudipto/Desktop/Dev/Flight Route Optimising System/io2d/install/include/io2d",
+                "/usr/include/cairo",
+                "/usr/include/GraphicsMagick"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
