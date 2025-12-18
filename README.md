@@ -23,7 +23,7 @@ Project Structure -
 
 Installation & Running -
 1. Clone the repository: 
-git clone https://github.com/sudiptoMaity2005/FlightPlanner.git
+git clone https://github.com/sudiptoMaity2005/Flight-Route-Optimising-System
 cd FlightPlanner
 2. Build the project:
 mkdir build && cd build
